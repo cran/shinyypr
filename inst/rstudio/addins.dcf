@@ -1,0 +1,5 @@
+Name: shinyypr app
+Description: shinyypr addin to open ypr app.
+Binding: shinyypr_addin
+Interactive: true
+

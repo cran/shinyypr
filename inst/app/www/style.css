@@ -1,0 +1,125 @@
+.shiny-output-error { visibility: hidden; }
+.shiny-output-error:before { visibility: hidden;}
+
+/* Customize fonts */
+  body, input, button, select { 
+    font-family: Myriad-Pro, Calibri, Arial, 'sans serif';
+    font-weight: 100;
+    	color: #494949;
+    		font-size: 13px;
+  }
+  
+h1, h2, h3, h4 { font-weight: 100; }
+ 
+button {
+  background-color: #999999;
+}
+
+label {
+  font-weight: 400 !important;
+  font-size: 12px !important;
+}
+
+  /****************************************** classes ********************************/
+
+.small-dl{
+  padding:4px; font-size:80%;
+}
+
+.param-label {
+    font-size: 12px;
+  font-weight: 600;
+  display:inline-block;
+  padding: 10px;
+}
+
+.inst {
+  font-size: 15px;
+  font-weight: 400;
+}
+  
+  #ypr-helpHover {
+    font-size: 10px;
+  }
+  
+  .tooltip-inner {
+    background-color: white;
+    color: #101010;
+    border: solid 1px black;
+    opacity:1 !important;
+  }
+          
+  .tooltip.in {
+    opacity: 1 !important;
+    filter: alpha(opacity=100);
+  }
+  
+  .wellpanel {
+  overflow-x:scroll; 
+    overflow-y:scroll; 
+  max-height: 600px; 
+  background-color: white;
+  font-size:85%;
+}
+
+.sidebar {
+  overflow-x:scroll; 
+    overflow-y:scroll; 
+  max-height: calc(100vh - 50px) !important; 
+}
+
+.tabbable > .nav {
+  font-weight: 800;
+    font-size: 14px;
+}
+
+.param-title{
+  text-align: left;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  border-bottom: 0.5px solid #494949;
+}
+
+.param-title2{
+  text-align: left;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  border-bottom: 0.5px solid #494949;
+}
+
+.param-header{
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 17px !important;
+  border-bottom: 0.5px solid #494949;
+}
+
+.error-message{
+  font-size: 14px !important;
+  color: #ff0000;
+}
+
+.param-subtitle{
+  text-align: left;
+   font-weight: 100 !important;
+     font-size: 12px !important;
+}
+
+#ypr-lowtab, #ypr-lowtab2, #ypr-lowtab3, #ypr-lowtab4 {
+  font-size: 11px;
+  font-weight: 100 !important;
+}
+
+.well2 {
+    padding: 10px !important;
+}
+
+#divParam {
+    font-size:50% !important;
+}
+
+
+ 
+
+ 
+ 
