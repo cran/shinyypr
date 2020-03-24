@@ -1,6 +1,6 @@
 Package: shinyypr
 Title: Run Ypr Shiny App
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     c(person(given = "Sebastian",
              family = "Dalgarno",
@@ -28,10 +28,10 @@ RdMacros: lifecycle
 Language: en-US
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-02-11 20:01:19 UTC; sebastiandalgarno
+Packaged: 2020-03-24 21:10:03 UTC; sebastiandalgarno
 Author: Sebastian Dalgarno [aut, cre] (<https://orcid.org/0000-0002-3658-4517>),
   Joe Thorley [ctb] (<https://orcid.org/0000-0002-7683-4592>),
   Poisson Consulting [cph, fnd]
 Maintainer: Sebastian Dalgarno <seb@poissonconsulting.ca>
 Repository: CRAN
-Date/Publication: 2020-02-20 14:50:02 UTC
+Date/Publication: 2020-03-24 21:30:02 UTC
